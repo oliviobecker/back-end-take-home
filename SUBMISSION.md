@@ -12,6 +12,6 @@ It will start a server running into localhost:5000
 
 Access http://localhost:5000/flights/bestroute/ (example: http://localhost:5000/flights/bestroute/YYZ/ORD)
 
-To run test's you can navigate to te path .solution\GuestLogix.Flights.API\GuestLogix.Flights.API.Tests and execute the following command:
+To run test's you can navigate to te path(using the command prompt) .solution\GuestLogix.Flights.API\GuestLogix.Flights.API.Tests and execute the following command:
 
 dotnet test

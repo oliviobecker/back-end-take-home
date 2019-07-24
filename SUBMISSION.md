@@ -1,6 +1,6 @@
 How to run
 
-It's an API .Net Core C#
+It's an .Net Core 2.2 API
 
 Can be started with visual studio, deploying to IIS or by command line with the .NET CLI
 
